@@ -1,9 +1,9 @@
 const dab = {
-    host: "localhost",
+    host: "roundhouse.proxy.rlwy.net",
     user: "root",
-    password: '',
-    database: 'apimy',
-    port: 3306,
+    password: 'PuqkCmKYNbrNVEItFgujEhJksZhPfpLb',
+    database: 'railway',
+    port: 49736,
 }
 
 export default dab
