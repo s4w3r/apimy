@@ -1,9 +1,9 @@
 const dab = {
-    host: "monorail.proxy.rlwy.net",
+    host: "localhost",
     user: "root",
-    password: 'PuqkCmKYNbrNVEItFgujEhJksZhPfpLb',
-    database: 'railway',
-    port: 49736,
+    password: '',
+    database: 'apimy',
+    port: 3306,
 }
 
 export default dab
